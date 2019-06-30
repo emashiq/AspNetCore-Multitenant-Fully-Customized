@@ -1,0 +1,1 @@
+# AspNetCore-Multitenant-Fully-Customized
